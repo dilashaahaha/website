@@ -33,12 +33,12 @@ http://www.tooplate.com/view/2098-health
   }
 
   h1 {
-    color: #252525;
+    color: #4c3333;
     font-size: 5em;
   }
 
   h2 {
-    color: #272727;
+    color: #271919;
     font-size: 3em;
     padding-bottom: 10px;
   }
@@ -50,7 +50,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   h4 {
-    color: #454545;
+    color: #372020;
     font-size: 1.8em;
     padding-bottom: 2px;
   }
@@ -84,7 +84,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   a:hover, a:active, a:focus {
-    color: #a5c422;
+    color: #318aa5;
     outline: none;
   }
 
@@ -107,7 +107,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .section-btn {
-    background: #a5c422;
+    background: #1e6b9a;
     border: 0;
     border-radius: 3px;
     color: #ffffff;
